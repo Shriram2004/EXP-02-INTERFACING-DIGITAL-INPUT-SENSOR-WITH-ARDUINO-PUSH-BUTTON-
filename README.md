@@ -94,11 +94,11 @@ void loop()
  
  
  
-## Output before the stimulation:
+## Output before the simulation:
 
 ![image](beforestimulation.jpeg)
 
-## Output after the stimulation:
+## Output after the simulation:
 
 ![image](afterstimulation.jpeg)
 
