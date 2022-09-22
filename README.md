@@ -94,10 +94,16 @@ void loop()
  
  
  
-## FIGURE -03
+## Output before the stimulation:
 
 ![image](beforestimulation.jpeg)
 
-## Output of the simulation :
+## Output after the stimulation:
 
 ![image](afterstimulation.jpeg)
+
+## Result:
+Thus the simulation output is completed in tinker cad successfully.
+
+
+
